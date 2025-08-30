@@ -5,7 +5,7 @@ DAX measures and conditional formatting are used for advanced calculations and v
 The dashboard highlights player attributes, team strengths, and positional comparisons.
 Published for interactive exploration and decision-making support.
 ![image alt](https://github.com/YoussefTarek11/FIFA-22-Analysis/blob/d2716216f469592a304e648f725ab966e5094e07/Screenshot%202025-08-30%20223432.png)
-![image alt](https://github.com/YoussefTarek11/SalesAnalysis/blob/2b030dc81d3640f3684b6ac88d8624121d6542a7/Screenshot%202025-08-04%20102934.png)
+![image alt](https://github.com/YoussefTarek11/FIFA-22-Analysis/blob/85550d9e5df995f392e15f41f3e8a34727133fc5/Screenshot%202025-08-30%20223451.png)
 ![image alt](https://github.com/YoussefTarek11/SalesAnalysis/blob/2b030dc81d3640f3684b6ac88d8624121d6542a7/Screenshot%202025-08-04%20102934.png)
 ![image alt](https://github.com/YoussefTarek11/SalesAnalysis/blob/2b030dc81d3640f3684b6ac88d8624121d6542a7/Screenshot%202025-08-04%20102934.png)
 ![image alt](https://github.com/YoussefTarek11/SalesAnalysis/blob/2b030dc81d3640f3684b6ac88d8624121d6542a7/Screenshot%202025-08-04%20102934.png)
