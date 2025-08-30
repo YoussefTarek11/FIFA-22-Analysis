@@ -8,6 +8,6 @@ Published for interactive exploration and decision-making support.
 ![image alt](https://github.com/YoussefTarek11/FIFA-22-Analysis/blob/85550d9e5df995f392e15f41f3e8a34727133fc5/Screenshot%202025-08-30%20223451.png)
 ![image alt](https://github.com/YoussefTarek11/FIFA-22-Analysis/blob/4af73c4948b53283f38cfea583d7658dda7959a8/Screenshot%202025-08-30%20223515.png)
 ![image alt](https://github.com/YoussefTarek11/FIFA-22-Analysis/blob/e4fcb7ff0baf588bcd2df9e375595c4e677362c6/Screenshot%202025-08-30%20223541.png)
-![image alt](https://github.com/YoussefTarek11/SalesAnalysis/blob/2b030dc81d3640f3684b6ac88d8624121d6542a7/Screenshot%202025-08-04%20102934.png)
+![image alt](https://github.com/YoussefTarek11/FIFA-22-Analysis/blob/7a4b4664c06dcb1c4cde6c34e476d97ece780bd5/Screenshot%202025-08-30%20223605.png)
 
 To explore the dashboard [here](https://drive.google.com/file/d/1cA9QRPv7NZc_b7I3v_mfRN1szPf8w4cy/view?usp=drive_link)
